@@ -2,11 +2,10 @@ package org.example;
 
 public class Class02Operators {
     public static void main(String[] args) {
-       
-         // + - / *
+        // + - / *
         int number01 = 10;
         int number02 = 20;
-        double result = number01 / (double) number02; // try to avoid the casting (double)
+        double result = number01 / (double) number02;
 
         System.out.println(result);
 
@@ -27,5 +26,21 @@ public class Class02Operators {
         System.out.println("isTenGreaterOrEqualsThanTwenty "+isTenGreaterOrEqualsThanTwenty);
         System.out.println("isTenDifferentThanTwenty "+isTenDifferentThanTwenty);
         System.out.println("isTenEqualsTwenty "+isTenEqualsTwenty);
+
+        // && (AND) || OR !
+
+        int age = 29;
+        float salary = 3500F;
+        boolean isLegalOlderThanThirty = age >= 30 && salary >= 4612;
+        boolean isLegalYoungerThanThirty = age < 30 && salary >= 3381;
+        System.out.println("isLegalOlderThanThirty "+ isLegalOlderThanThirty);
+        System.out.println("isLegalYoungerThanThirty "+ isLegalYoungerThanThirty);
+
+        double currentAccount = 299;
+        double savingsAccount = 3000;
+        float playstationFivePrice = 500;
+        boolean canBeBought = currentAccount > playstationFivePrice || savingsAccount > playstationFivePrice;
+        System.out.println("canBeBought "+canBeBought);
+
     }
 }
