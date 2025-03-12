@@ -14,8 +14,9 @@ public class Class01PrimitiveTypes {
         short ageShorte = 29;
         byte ageByte = 39;
         char characeter = 9;
+        String name = "Gustavo";
 
-        System.out.println("The age is " + age);
+        System.out.println("My name is "+ name + ", I'm " + age);
     }
 
 }
