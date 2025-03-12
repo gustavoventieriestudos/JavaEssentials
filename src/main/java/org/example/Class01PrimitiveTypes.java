@@ -7,6 +7,14 @@ public class Class01PrimitiveTypes {
 
     public static void main(String[] args) {
         int age = 18;
+        long bigNumber = 10000;
+        float salaryFloat = 2500;
+        boolean trueValue = true;
+        boolean falsevalue = false;
+        short ageShorte = 29;
+        byte ageByte = 39;
+        char characeter = 9;
+
         System.out.println("The age is " + age);
     }
 
