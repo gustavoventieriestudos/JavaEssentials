@@ -1,6 +1,6 @@
 package org.example;
 
-public class Class03ConditionalStatements {
+public class Class03IF {
 
     public static void main(String[] args) {
         int age = 12;

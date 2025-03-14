@@ -1,6 +1,6 @@
 package org.example;
 
-public class Class05ConditionalStatements3 {
+public class Class05ELSE_IF {
     public static void main(String[] args) {
         // if salary > 2000 "buy ps5" "don't buy ps5"
         double salary = 3000D;
