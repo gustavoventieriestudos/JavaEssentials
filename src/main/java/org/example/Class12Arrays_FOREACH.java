@@ -1,6 +1,5 @@
 package org.example;
 
-import java.util.Arrays;
 
 public class Class12Arrays_FOREACH {
     public static void main(String[] args) {
