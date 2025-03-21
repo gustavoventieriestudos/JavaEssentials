@@ -1,4 +1,4 @@
-package org.example;
+package org.example.introduction;
 
 public class Class13MultidimensionalArray {
     public static void main(String[] args) {

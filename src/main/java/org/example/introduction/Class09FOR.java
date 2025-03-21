@@ -1,4 +1,4 @@
-package org.example;
+package org.example.introduction;
 
 public class Class09FOR {
     public static void main(String[] args) {

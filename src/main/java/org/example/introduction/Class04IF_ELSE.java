@@ -1,4 +1,4 @@
-package org.example;
+package org.example.introduction;
 
 public class Class04IF_ELSE {
     public static void main(String[] args) {
