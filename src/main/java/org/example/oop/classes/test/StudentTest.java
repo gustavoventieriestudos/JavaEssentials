@@ -15,6 +15,6 @@ public class StudentTest {
     student2.age = 12;
     student2.name = "Ls";
 
-    System.out.println(student2.age);
+    student.print();
    }
 }
