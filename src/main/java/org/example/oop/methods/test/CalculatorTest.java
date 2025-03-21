@@ -11,6 +11,8 @@ public class CalculatorTest {
 
        System.out.println(calculator.subtractTwoNumbers(10, 20));
        System.out.println(calculator.sumTwoNumbers(20, 2));
+       System.out.println(calculator.divideTwoNumber(10, 3));
+       System.out.println(calculator.multiplyTwoNumber(10, 10));
 
     }
 

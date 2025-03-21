@@ -21,4 +21,11 @@ public class Calculator {
 
         return result;
     }   
+
+    public double divideTwoNumber(int num1, int num2) {
+    
+        double result = num1 / num2;
+
+        return result;
+    }  
 }
