@@ -1,4 +1,4 @@
-package org.example.oop.domain;
+package org.example.oop.classes.domain;
 
 public class Student {
     public String name;

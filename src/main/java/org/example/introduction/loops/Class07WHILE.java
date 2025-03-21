@@ -1,12 +1,13 @@
-package org.example.introduction;
+package org.example.introduction.loops;
 
-public class Class08DO_WHILE {
+public class Class07WHILE {
     public static void main(String[] args) {
         int counter = 0;
 
-        do {
+        while(counter <= 10){
+
             System.out.println(counter);
             counter++;
-        }while (counter <= 10);
+        }
     }
 }

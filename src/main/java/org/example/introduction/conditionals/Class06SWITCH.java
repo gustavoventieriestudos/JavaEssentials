@@ -1,4 +1,4 @@
-package org.example.introduction;
+package org.example.introduction.conditionals;
 
 public class Class06SWITCH {
     public static void main(String[] args) {

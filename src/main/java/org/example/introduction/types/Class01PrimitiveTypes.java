@@ -1,4 +1,4 @@
-package org.example.introduction;
+package org.example.introduction.types;
 
 public class Class01PrimitiveTypes {
 

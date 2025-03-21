@@ -1,4 +1,4 @@
-package org.example.introduction;
+package org.example.introduction.loops;
 
 
 public class Class12Arrays_FOREACH {

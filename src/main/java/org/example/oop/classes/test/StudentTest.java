@@ -1,6 +1,6 @@
-package org.example.oop.test;
+package org.example.oop.classes.test;
 
-import org.example.oop.domain.Student;
+import org.example.oop.classes.domain.Student;
 
 public class StudentTest {
    public static void main(String[] args) {

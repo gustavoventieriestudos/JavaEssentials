@@ -1,4 +1,4 @@
-package org.example.introduction;
+package org.example.introduction.operators;
 
 public class Class02Operators {
     public static void main(String[] args) {

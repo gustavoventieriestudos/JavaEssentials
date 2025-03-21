@@ -1,4 +1,4 @@
-package org.example.introduction;
+package org.example.introduction.loops;
 
 public class Class10FOR_BREAK {
     public static void main(String[] args) {
