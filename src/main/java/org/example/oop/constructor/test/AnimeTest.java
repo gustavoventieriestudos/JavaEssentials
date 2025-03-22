@@ -9,6 +9,5 @@ public class AnimeTest {
         
         anime.print();
         anime2.print();
-
     }
 }
